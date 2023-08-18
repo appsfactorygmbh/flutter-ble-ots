@@ -19,7 +19,7 @@ A Flutter package for easy interaction with Bluetooth devices using the Bluetoot
 import 'package:flutter_ble_ots/flutter_ble_ots.dart';
 ```
 
-2. Implement the `BleDeviceInteractor` interface for your BLE package, for example using `flutter_reactive_ble`. See the provided example implementation in the lib folder.
+2. Implement the `BleDeviceInteractor` interface for your BLE package, for example using `flutter_reactive_ble`. See the provided example implementation in the example folder.
 
 3. Create an instance of BleOtsWrapper:
 ```dart
