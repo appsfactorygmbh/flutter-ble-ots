@@ -1,6 +1,9 @@
 name: flutter_ble_ots
 description: Bluetooth Low Energy Object Transfer Service
-version: 0.0.1
+version: 0.0.2
+homepage: 'https://appsfactory.de'
+repository: https://github.com/appsfactorygmbh/flutter-ble-ots
+
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
