@@ -22,7 +22,7 @@ dependencies:
   meta: ^1.9.1
   flutter_hooks: ^0.18.6
   flutter_ble_ots: 
-    path: packages/flutter_ble_ots
+    path: flutter_ble_ots
   freezed_annotation: ^2.4.1
 
 dev_dependencies:
